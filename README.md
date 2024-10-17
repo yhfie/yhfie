@@ -1,4 +1,4 @@
-<h3 align="center">Machine Learning Engineer & Web Front-end Programmer</h3>
+<h3 align="center">Machine Learning Engineer & Front-end Web Programmer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
