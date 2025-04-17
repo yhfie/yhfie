@@ -1,4 +1,5 @@
-<h3 align="center">Machine Learning Engineer & Front-end Web Programmer</h3>
+<h3 align="center">Research Trainee, Machine Learning Engineer, & Front-end Web Programmer</h3>
+<a href="https://yhfie.vercel.app">yhfie.vercel.app</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
