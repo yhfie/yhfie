@@ -1,30 +1,3 @@
-                                                       
-                                                       
-                                                       
-                                                       
-                   .^~!!!!!!!!!!!~^.                   
-               .^!7!^..         ..^!7!^                
-             .!?!:     .:.           .~7~.             
-           .!J~.     ^7???!            .??!.           
-          :J?.    .!?J????7          .~7????:          
-         :J?    .!JJJJJJ7:        .^7????????:         
-        .JJ.   ~JJJJJJ7:       .^7JJJ?????????         
-        ~Y~  :JJJJJJ?:      :~7JJJJJJJJJ?77?JJ~        
-        ?Y: ^YYJJJJJ: .:^!?JYJJJJJJJJJ?:    ~J7        
-        ?Y: JYYYYYYYJJYYYY?~. ^JJJJJJ7      .J7        
-        !5! ^YYYYYYYYJ7~:    .7YYJYJ^       ~Y~        
-        .YY.  :~!~^:.      :?YYYYY?.       .JJ.        
-         ^5J             ^JYYYYYY~         ?Y:         
-          ^5Y.         ~Y55YYY57.        .JY:          
-           .?57.    .!Y555555J:        .75?.           
-             :J5?:.75555555Y~        :?5?:             
-               .!J5PP55555!.    .:!JYJ~.               
-                   :~7JY55JJJJYYJ?!:                   
-                          ....                         
-                                                       
-                                                       
-                                                       
-
 <h3 align="center">
 <a href="https://yhfie.vercel.app">yhfie.vercel.app</a>
 </h3>
